@@ -6,14 +6,14 @@ jobs:
     runs-on: windows-latest
     
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     
     - name: Setup MSBuild
       uses: microsoft/setup-msbuild@v1.1
       
     - name: Restore Packages
-      run: nuget restore web4.sln
+      run: nuget restore UniClubManagementSystem/UniClubManagementSystem/UniClubManagementSystem.csproj
       
     - name: Build
-      run: msbuild web4.sln /p:Configuration=Release
+      run: msbuild UniClubManagementSystem/UniClubManagementSystem/UniClubManagementSystem.csproj /p:Configuration=Release
 
