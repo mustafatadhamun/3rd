@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|c:\\users\\user\\source\\repos\\uniclubmanagementsystem\\uniclubmanagementsystem\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|solutionrelative:uniclubmanagementsystem\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|c:\\users\\user\\source\\repos\\uniclubmanagementsystem\\uniclubmanagementsystem\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|solutionrelative:uniclubmanagementsystem\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\uniclubmanagementsystem\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|solutionrelative:uniclubmanagementsystem\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\uniclubmanagementsystem\\manageclubsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|solutionrelative:uniclubmanagementsystem\\manageclubsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\uniclubmanagementsystem\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|solutionrelative:uniclubmanagementsystem\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\uniclubmanagementsystem\\manageeventsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|solutionrelative:uniclubmanagementsystem\\manageeventsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\uniclubmanagementsystem\\manageclubsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|solutionrelative:uniclubmanagementsystem\\manageclubsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\uniclubmanagementsystem\\manageeventsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|solutionrelative:uniclubmanagementsystem\\manageeventsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|c:\\users\\user\\source\\repos\\uniclubmanagementsystem\\uniclubmanagementsystem\\managemembersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|solutionrelative:uniclubmanagementsystem\\managemembersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\uniclubmanagementsystem\\managemembersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|solutionrelative:uniclubmanagementsystem\\managemembersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\uniclubmanagementsystem\\manageusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|solutionrelative:uniclubmanagementsystem\\manageusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\uniclubmanagementsystem\\manageusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|solutionrelative:uniclubmanagementsystem\\manageusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\uniclubmanagementsystem\\myclubsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|solutionrelative:uniclubmanagementsystem\\myclubsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\uniclubmanagementsystem\\myclubsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|solutionrelative:uniclubmanagementsystem\\myclubsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\uniclubmanagementsystem\\manageclubsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|solutionrelative:uniclubmanagementsystem\\manageclubsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\uniclubmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|solutionrelative:uniclubmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\uniclubmanagementsystem\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|solutionrelative:uniclubmanagementsystem\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\uniclubmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|solutionrelative:uniclubmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\uniclubmanagementsystem\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|solutionrelative:uniclubmanagementsystem\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\uniclubmanagementsystem\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D438F29-15E5-453D-8C24-0300D1BC87AE}|UniClubManagementSystem\\UniClubManagementSystem.csproj|solutionrelative:uniclubmanagementsystem\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportsForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "UniClubManagementSystem\\ReportsForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ReportsForm.cs*",
+              "RelativeToolTip": "UniClubManagementSystem\\ReportsForm.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T19:00:21.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "UniClubManagementSystem\\ReportsForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ReportsForm.cs [Design]*",
+              "RelativeToolTip": "UniClubManagementSystem\\ReportsForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T19:00:20.184Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\MainDashboard.cs",
+              "RelativeDocumentMoniker": "UniClubManagementSystem\\MainDashboard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\MainDashboard.cs [Design]",
+              "RelativeToolTip": "UniClubManagementSystem\\MainDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:38:01.451Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageClubsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ManageClubsForm.cs",
+              "RelativeDocumentMoniker": "UniClubManagementSystem\\ManageClubsForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ManageClubsForm.cs [Design]",
+              "RelativeToolTip": "UniClubManagementSystem\\ManageClubsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:48:33.491Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\MainDashboard.cs",
+              "RelativeDocumentMoniker": "UniClubManagementSystem\\MainDashboard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\MainDashboard.cs",
+              "RelativeToolTip": "UniClubManagementSystem\\MainDashboard.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAtwCkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:45:07.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageEventsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ManageEventsForm.cs",
+              "RelativeDocumentMoniker": "UniClubManagementSystem\\ManageEventsForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ManageEventsForm.cs [Design]",
+              "RelativeToolTip": "UniClubManagementSystem\\ManageEventsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T16:27:43.585Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageClubsForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ManageClubsForm.cs",
+              "RelativeDocumentMoniker": "UniClubManagementSystem\\ManageClubsForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ManageClubsForm.cs",
+              "RelativeToolTip": "UniClubManagementSystem\\ManageClubsForm.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAiwGYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:58:12.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageEventsForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ManageEventsForm.cs",
+              "RelativeDocumentMoniker": "UniClubManagementSystem\\ManageEventsForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ManageEventsForm.cs",
+              "RelativeToolTip": "UniClubManagementSystem\\ManageEventsForm.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAWwPIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T16:35:38.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManageMembersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ManageMembersForm.cs",
+              "RelativeDocumentMoniker": "UniClubManagementSystem\\ManageMembersForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ManageMembersForm.cs [Design]",
+              "RelativeToolTip": "UniClubManagementSystem\\ManageMembersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:37:08.554Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageMembersForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ManageMembersForm.cs",
+              "RelativeDocumentMoniker": "UniClubManagementSystem\\ManageMembersForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ManageMembersForm.cs",
+              "RelativeToolTip": "UniClubManagementSystem\\ManageMembersForm.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAWwKQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:43:52.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManageUsersForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ManageUsersForm.cs",
+              "RelativeDocumentMoniker": "UniClubManagementSystem\\ManageUsersForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ManageUsersForm.cs",
+              "RelativeToolTip": "UniClubManagementSystem\\ManageUsersForm.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAWwNwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T14:27:19.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManageUsersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ManageUsersForm.cs",
+              "RelativeDocumentMoniker": "UniClubManagementSystem\\ManageUsersForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ManageUsersForm.cs [Design]",
+              "RelativeToolTip": "UniClubManagementSystem\\ManageUsersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T14:14:14.927Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyClubsForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\MyClubsForm.cs",
+              "RelativeDocumentMoniker": "UniClubManagementSystem\\MyClubsForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\MyClubsForm.cs",
+              "RelativeToolTip": "UniClubManagementSystem\\MyClubsForm.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAewKoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:22:07.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyClubsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\MyClubsForm.cs",
+              "RelativeDocumentMoniker": "UniClubManagementSystem\\MyClubsForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\MyClubsForm.cs [Design]",
+              "RelativeToolTip": "UniClubManagementSystem\\MyClubsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:11:52.1Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageClubsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ManageClubsForm.Designer.cs",
+              "RelativeDocumentMoniker": "UniClubManagementSystem\\ManageClubsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\ManageClubsForm.Designer.cs",
+              "RelativeToolTip": "UniClubManagementSystem\\ManageClubsForm.Designer.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAewKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T14:02:55.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\UserSession.cs",
+              "RelativeDocumentMoniker": "UniClubManagementSystem\\UserSession.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\UserSession.cs",
+              "RelativeToolTip": "UniClubManagementSystem\\UserSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:37:05.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SecurityHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\SecurityHelper.cs",
+              "RelativeDocumentMoniker": "UniClubManagementSystem\\SecurityHelper.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\SecurityHelper.cs",
+              "RelativeToolTip": "UniClubManagementSystem\\SecurityHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:24:33.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "UniClubManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\Form1.cs",
+              "RelativeToolTip": "UniClubManagementSystem\\Form1.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAQwFwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:20:21.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "UniClubManagementSystem\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\DatabaseHelper.cs",
+              "RelativeToolTip": "UniClubManagementSystem\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:07:12.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "UniClubManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UniClubManagementSystem\\UniClubManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "UniClubManagementSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:05:35.841Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
