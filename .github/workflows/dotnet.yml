@@ -12,7 +12,7 @@ jobs:
       uses: microsoft/setup-msbuild@v1.1
       
     - name: Restore Packages
-      run: nuget restore UniClubManagementSystem/UniClubManagementSystem/UniClubManagementSystem.csproj
+      run: nuget restore UniClubManagementSystem/UniClubManagementSystem/UniClubManagementSystem.csproj -SolutionDirectory UniClubManagementSystem/UniClubManagementSystem
       
     - name: Build
       run: msbuild UniClubManagementSystem/UniClubManagementSystem/UniClubManagementSystem.csproj /p:Configuration=Release
