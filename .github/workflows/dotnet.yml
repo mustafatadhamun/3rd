@@ -12,8 +12,8 @@ jobs:
       uses: microsoft/setup-msbuild@v1.1
       
     - name: Restore Packages
-      run: nuget restore UniClubManagementSystem.sln
+      run: nuget restore web4.sln
       
     - name: Build
-      run: msbuild UniClubManagementSystem.sln /p:Configuration=Release
+      run: msbuild web4.sln /p:Configuration=Release
 
